@@ -1,4 +1,5 @@
-## источник данных: https://www.kaggle.com/datasets/matheusgratz/world-university-rankings-2021
+## источник данных: https://www.kaggle.com/datasets/matheusgratz/world-university-rankings-2021 
+## этот же текст, но с картинками: https://docs.google.com/document/d/11ld0ePsM99neXkDwus50zeWQHzYdpOw7fSJL_gPwrHk/edit
 
 # что cделала
 
